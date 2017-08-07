@@ -1,0 +1,6 @@
+/*
+  Leer, setzt nur den Editor zurück, damit nicht das CSS des Template greift
+*/
+p {
+    font-size: 12px;
+}
